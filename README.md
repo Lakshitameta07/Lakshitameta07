@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lakshitameta07
-- 👀 I’m interested in ... Application Development 
-- 🌱 I’m currently learning ...ReactNative and Cloud
+- 👀 I’m interested in ... Cross platform  development 
+- 🌱 I’m currently working on ...ReactJs,ReactNative and Cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
